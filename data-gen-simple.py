@@ -14,5 +14,4 @@ plt.xlabel('Tiempos de servicio')
 plt.ylabel('Frecuencia')
 plt.show()
 
-print(bins)
 print(count)
